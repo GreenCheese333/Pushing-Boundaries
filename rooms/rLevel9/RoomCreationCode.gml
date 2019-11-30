@@ -1,0 +1,1 @@
+global.winMaxW = room_width;

@@ -1,0 +1,1 @@
+if (window_frame_get_width() >= 1000) room_goto(global.next);
